@@ -39,8 +39,7 @@ while True:
     print(text)
     if text=="stop" or text=="close" or text=="exit":
         exit(1)
-```
-        
+``` 
 
 
 <H3> Output:</H3>
