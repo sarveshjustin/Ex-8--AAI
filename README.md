@@ -31,6 +31,8 @@ Perform speech recognition with exceptional handling
 ### Program:
 ~~~
 pip install SpeechRecognition
+!sudo apt install python3-pyaudio
+
 pip install pyaudio
 
 import speech_recognition as sr
